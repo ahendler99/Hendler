@@ -1,2 +1,0 @@
-# Hendler
-Assignment 1
